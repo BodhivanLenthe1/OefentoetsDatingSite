@@ -1,10 +1,10 @@
 <?php
 //it allows any type of database.
 
-define("serverName", "localhost:3306");
-define("database", "datingsite");
-define("username", "root");
-define("password", "");
+define("serverName", "localhost");
+define("database", "net24blenthe_datingsite");
+define("username", "net24blenthe_bodhimvl");
+define("password", "W?-;DlwVPHiu");
 define("connectionString", "mysql:host=" . serverName . ";dbname=" . database);
 
 function getConnection()
